@@ -11,7 +11,7 @@ import SwiftUI
 struct HealthyMiiApp: App {
     var body: some Scene {
         WindowGroup {
-            StartPageView()
+            JournalPageView()
         }
     }
 }
